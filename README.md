@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working on lerning powershell,bash & python
+I am currently working on learning powershell,bash & python
 
 <!--
 **lahiru666/lahiru666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
