@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I am currently working on learning powershell,bash & python
-on my way to become a cloud engineer 
+I am currently working on learning powershell,bash & python 💀
+
+love to write scripts & configure things 👩🏻‍💻
+
+on my way to become a cloud engineer 💭 
 
 <!--
 **lahiru666/lahiru666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
